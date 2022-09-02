@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haboub4500
 - 👀 I’m interested in data.
-- 🌱 I’m currently learning data science and machine learning.
+- 🌱 I’m a data science student at IMT Atlantique.
 - 💞️ I’m looking to collaborate on whatever project you like.
 - 📫 How to reach me : haboubabderrahim@gmail.com
 
@@ -9,4 +9,4 @@ haboub4500/haboub4500 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-https://docs.google.com/presentation/d/1nZSBxZuAJPaz41mcFaioDA_cuIKdZrlYodA7UHoUaTQ/edit?usp=sharing
+
